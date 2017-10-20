@@ -43,3 +43,7 @@ public class VectorHelper {
         return tmpV;
     }
 }
+ public int [] sommeVectors (int [] vecteur)
+{
+
+}
