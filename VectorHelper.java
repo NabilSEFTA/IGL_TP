@@ -44,6 +44,6 @@ public class VectorHelper {
     }
 }
  public int [] sommeVectors (int [] vecteur)
-{
+{	int a;
 
 }
